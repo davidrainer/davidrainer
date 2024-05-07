@@ -1,6 +1,6 @@
 # Hello there, 👋
 
-## Web Aficionado & Freelance Developer
+## Web Aficionado & Freelance Software Engineer
 
 Welcome to my GitHub profile! As a seasoned freelance developer, I specialize in CMS development, crafting custom modules, and providing scalable software solutions. My experience spans across front-end development and implementing strategic solutions like internal onboarding tools, white labeling services, and team augmentation tailored for design agencies.
 
