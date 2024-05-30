@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, 👋</h1>
 <h3 align="center">Web Aficionado & Freelance Software Engineer</h3>
 
-<p>Welcome to my GitHub profile! I'm a seasoned freelance developer specializing in CMS development, custom module creation, and scalable software solutions. My expertise extends to front-end development and implementing solutions such as internal onboarding tools. I assist clients through team augmentation and white-label services tailored for design agencies.</p>
+<p>Welcome to my GitHub profile! I'm a seasoned freelance developer specializing in CMS development, custom module creation, and scalable software solutions. I focus on front-end development and have experience building complete software solutions, such as internal onboarding tools. I assist clients through team augmentation and provide white-label services tailored for design agencies.</p>
 
 ### 🔧 Tools and Languages
 
